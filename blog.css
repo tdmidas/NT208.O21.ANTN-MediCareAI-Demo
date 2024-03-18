@@ -233,20 +233,17 @@ img {
 }
 
 .tag-blue {
-    background: #56CCF2;
-    background: linear-gradient(to bottom, #2F80ED, #56CCF2);
+    background: #06b88c;
     color: #fafafa;
 }
 
 .tag-brown {
-    background: #D1913C;
-    background: linear-gradient(to bottom, #FFD194, #D1913C);
+    background: #06b88c;
     color: #fafafa;
 }
 
 .tag-red {
-    background: #cb2d3e;
-    background: linear-gradient(to bottom, #ef473a, #cb2d3e);
+    background: #06b88c;
     color: #fafafa;
 }
 
